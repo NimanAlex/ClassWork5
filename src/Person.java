@@ -1,3 +1,3 @@
 public interface Person {
-    void getInfo();
+   public void getInfo();
 }
